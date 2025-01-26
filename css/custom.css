@@ -1,0 +1,38 @@
+/* custom.css */
+.mt-6px {
+    margin-top: 6px;
+  }
+
+  .w-60px {
+    width: 60px !important;
+  }
+
+  .w-130x {
+    width: 130px !important;
+  }
+
+  .w-300px {
+    width: 300px !important;
+  }
+
+  .w-284px {
+    width: 284px !important;
+  }
+  
+  .rounded-50px {
+    border-radius: 50px;
+  }
+
+  .postbtn {
+    margin-left : -10px !important;
+  }
+
+  .first {
+     width: 22% !important;
+  }
+  .second {
+    width: 79% !important;
+  }
+  .third {
+    width: 22% !important;
+  }
